@@ -1,4 +1,4 @@
-Hello 👋, I'm Ali, a student at IT-Högskolan in Gothenburg, specializing in Artificial Intelligence and Machine Learning.
+Student at IT-Högskolan in Gothenburg, specializing in Artificial Intelligence and Machine Learning.
 
 🎓 Education:
 - Currently pursuing a degree in AI and Machine Learning at IT Högskolan in Gothenburg.
